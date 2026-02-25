@@ -9,7 +9,7 @@
 
 main {
     height: 100vh;
-    background: url(/images/fantasy-style-galaxy-background.jpg);
+    background: url(/images/bg.jpg);
     background-size: cover;
     background-position: center;
 }
